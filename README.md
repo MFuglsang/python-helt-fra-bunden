@@ -1,4 +1,4 @@
-# python-helt-fra-bunden
+# Python helt fra bunden
 
 Dette pythonkursus henvender sig til elever i folkeskolen, der gerne vil i gang med at lære at kode python. 
 
@@ -11,8 +11,8 @@ Klik på linket under hvert element, for at åbne modulet i browseren.
 
 Kurset består af følgende elementer :
 
-### [01-Intro](
-https://githubtocolab.com/MFuglsang/python-helt-fra-bunden/blob/main/notebooks/01_Intro.ipynb)
+### 01-Intro
+https://githubtocolab.com/MFuglsang/python-helt-fra-bunden/blob/main/notebooks/01_Intro.ipynb
 
 ### 02-Variabler
 https://githubtocolab.com/MFuglsang/python-helt-fra-bunden/blob/main/notebooks/02_variable.ipynb
