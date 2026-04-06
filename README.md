@@ -15,7 +15,7 @@ Kurset består af følgende elementer :
 https://githubtocolab.com/MFuglsang/python-helt-fra-bunden/blob/main/notebooks/01_Intro.ipynb)
 
 ### 02-Variabler
-https://githubtocolab.com/MFuglsang/python-helt-fra-bunden/blob/main/notebooks/02_Variable.ipynb
+https://githubtocolab.com/MFuglsang/python-helt-fra-bunden/blob/main/notebooks/02_variable.ipynb
 
 ### 03-Betingelser
 https://githubtocolab.com/MFuglsang/python-helt-fra-bunden/blob/main/notebooks/03_betingelser.ipynb
